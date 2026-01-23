@@ -12,4 +12,4 @@ Solutions are provided for **PostgreSQL/MySQL**. Look for the `setup.sql` file i
 ---
 ### 🔗 Other Pillars
 Check out my other core CS repositories:
-[Operating Systems](link-to-os) | [Artificial Intelligence](link-to-ai) | [Databases](link-to-db)
+[Operating Systems](https://github.com/abdul-4443/OS-Internals-Practice) | [Artificial Intelligence](https://github.com/abdul-4443/Intelligence-Architect)
