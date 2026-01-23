@@ -9,3 +9,7 @@ A repository dedicated to the art of data persistence, schema optimization, and 
 
 ### 🛠 Environment
 Solutions are provided for **PostgreSQL/MySQL**. Look for the `setup.sql` file in each problem folder to initialize the test data.
+---
+### 🔗 Other Pillars
+Check out my other core CS repositories:
+[Operating Systems](link-to-os) | [Artificial Intelligence](link-to-ai) | [Databases](link-to-db)
