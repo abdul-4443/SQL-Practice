@@ -1,15 +1,15 @@
-# 🗄️ Database Design & Query Mastery
+#  Database Design
 
-A repository dedicated to the art of data persistence, schema optimization, and complex querying.
+This repo is made to showcase some practice problems I did during my Database Systems learning journey.
 
-### 📑 Content
+###  Content
 * **SQL Challenges:** Complex joins, subqueries, and window functions.
-* **Schema Design:** Normalization (1NF-3NF) and ER Diagrams.
+* **Schema Design:** Normalization and ER Diagrams.
 * **Optimization:** Indexing strategies and Query Execution Plans.
 
-### 🛠 Environment
+###  Environment
 Solutions are provided for **PostgreSQL/MySQL**. Look for the `setup.sql` file in each problem folder to initialize the test data.
 ---
-### 🔗 Other Pillars
+### More Practice
 Check out my other core CS repositories:
 [Operating Systems](https://github.com/abdul-4443/OS-Internals-Practice) | [Artificial Intelligence](https://github.com/abdul-4443/Intelligence-Architect)
